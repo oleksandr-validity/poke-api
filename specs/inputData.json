@@ -1,0 +1,12 @@
+[
+  {
+    "name": "pikachu",
+    "moves": [
+      "laser-focus",
+      "brutal-swing",
+      "rest",
+      "sky-attack",
+      "thunderbolt"
+    ]
+  }
+]
