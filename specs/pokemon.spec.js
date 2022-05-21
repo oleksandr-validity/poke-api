@@ -21,7 +21,7 @@ describe(`Pokemon: ${pokemonName}`,  () =>{
       })
   })
 
-  before(`Get all moves of Pokemon: ${pokemonName}`, () =>{
+  before(() => {
         for(let i  in apiResponse.body.moves){
           resPokemonMoves.push(apiResponse.body.moves[i].move.name)
         }

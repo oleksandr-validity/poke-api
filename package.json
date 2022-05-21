@@ -2,10 +2,10 @@
   "name": "poke-api",
   "version": "1.0.0",
   "description": "api challenge",
+  "author": "Oleksandr Ostapchuk",
+  "license": "ISC",
   "scripts": {
-    "test": "npx mocha --config.mocharc.js",
-    "author": "Oleksandr Ostapchuk",
-    "license": "ISC"
+    "test": "npx mocha --config.mocharc.js"
   },
   "devDependencies": {
     "@babel/cli": "^7.17.10",
